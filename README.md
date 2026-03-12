@@ -75,3 +75,6 @@ The frontend application will start and can generally be accessed at `http://loc
 - **Database:** MongoDB, Mongoose.
 - **Other:** AI APIs for descriptive features, Multer (or similar) for file uploads.
 # ai-gallery
+isme kux aalag hai 
+ok 
+
